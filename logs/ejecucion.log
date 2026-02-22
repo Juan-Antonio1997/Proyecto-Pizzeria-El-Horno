@@ -1,0 +1,8 @@
+2026-02-22 20:01:36 - ERROR - pedido.py - El fichero "datos/producto.csv" no existe o no fue encontrado
+2026-02-22 20:11:21 - INFO - pedido.py - Venta realizada con éxito. Total: 34.1€
+2026-02-22 20:19:52 - INFO - pedido.py - Venta realizada con éxito. Total: 15.62€
+2026-02-22 20:20:21 - INFO - pedido.py - Venta realizada con éxito. Total: 23.32€
+2026-02-22 20:21:15 - INFO - pedido.py - Venta realizada con éxito. Total: 16.39€
+2026-02-22 20:23:10 - INFO - pedido.py - Venta realizada con éxito. Total: 20.9€
+2026-02-22 20:42:30 - INFO - pedido.py - Venta realizada con éxito. Total: 0.0€
+2026-02-22 20:43:37 - INFO - pedido.py - Venta realizada con éxito. Total: 9.02€

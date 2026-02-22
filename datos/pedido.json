@@ -1,0 +1,108 @@
+[
+    {
+        "fecha": "22/02/2026",
+        "hora": "20:11:21",
+        "pedido": [
+            {
+                "nombre": "pizza mediana",
+                "precio": 12.0
+            },
+            {
+                "nombre": "pizza familiar",
+                "precio": 19.0
+            }
+        ],
+        "subtotal": 31.0,
+        "iva": 3.1,
+        "total final": 34.1
+    },
+    {
+        "fecha": "22/02/2026",
+        "hora": "20:19:52",
+        "pedido": [
+            {
+                "nombre": "pizza mediana",
+                "precio": 12.0
+            },
+            {
+                "nombre": "fanta",
+                "precio": 2.2
+            }
+        ],
+        "subtotal": 14.2,
+        "iva": 1.42,
+        "total final": 15.62
+    },
+    {
+        "fecha": "22/02/2026",
+        "hora": "20:20:21",
+        "pedido": [
+            {
+                "nombre": "pizza familiar",
+                "precio": 19.0
+            },
+            {
+                "nombre": "coca-cola",
+                "precio": 2.2
+            }
+        ],
+        "subtotal": 21.2,
+        "iva": 2.12,
+        "total final": 23.32
+    },
+    {
+        "fecha": "22/02/2026",
+        "hora": "20:21:15",
+        "pedido": [
+            {
+                "nombre": "burger",
+                "precio": 12.0
+            },
+            {
+                "nombre": "aquarius",
+                "precio": 2.9
+            }
+        ],
+        "subtotal": 14.9,
+        "iva": 1.49,
+        "total final": 16.39
+    },
+    {
+        "fecha": "22/02/2026",
+        "hora": "20:23:10",
+        "pedido": [
+            {
+                "nombre": "pizza familiar",
+                "precio": 19.0
+            }
+        ],
+        "subtotal": 19.0,
+        "iva": 1.9,
+        "total final": 20.9
+    },
+    {
+        "fecha": "22/02/2026",
+        "hora": "20:42:30",
+        "pedido": [],
+        "subtotal": 0,
+        "iva": 0.0,
+        "total final": 0.0
+    },
+    {
+        "fecha": "22/02/2026",
+        "hora": "20:43:37",
+        "pedido": [
+            {
+                "nombre": "bocadillo",
+                "precio": 6.0
+            },
+            {
+                "nombre": "fanta",
+                "precio": 2.2
+            }
+        ],
+        "subtotal": 8.2,
+        "iva": 0.82,
+        "total final": 9.02
+    }
+]
