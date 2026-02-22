@@ -1,5 +1,5 @@
 #Autor: Juan Antonio Gómez Martín
-import pytest, pandas as pd, os
+import pytest, pandas as pd
 from librerias import pedido as ped
 
 def test_iva():
