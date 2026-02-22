@@ -35,9 +35,6 @@ def acceso_autorizado():
 def acceso_denegado():
     log.error("Se ha cerrado el programa tras 3 intentos fallidos de inicio de sesión")
 
-def line_skip():
-    print("")
-
 def leer_datos():
     try:
         with open(RUTA_DATOS, "r", encoding="utf-8") as f:

@@ -19,3 +19,9 @@
 2026-02-22 22:10:05 - ERROR - acceso_admin.py - El fichero "datos/configs.json" no existe o no fue encontrado
 2026-02-22 22:12:14 - ERROR - acceso_admin.py - Se ha cerrado el programa tras 3 intentos fallidos de inicio de sesión
 2026-02-22 22:12:19 - INFO - acceso_admin.py - Acceso autorizado al panel de administración
+2026-02-22 22:34:52 - INFO - pedido.py - Venta realizada con éxito. Total: 33.44€
+2026-02-22 22:36:31 - INFO - pedido.py - Venta realizada con éxito. Total: 0.0€
+2026-02-22 22:39:45 - INFO - acceso_admin.py - Acceso autorizado al panel de administración
+2026-02-22 22:41:35 - ERROR - acceso_admin.py - Se ha cerrado el programa tras 3 intentos fallidos de inicio de sesión
+2026-02-22 22:42:00 - ERROR - acceso_admin.py - Se ha cerrado el programa tras 3 intentos fallidos de inicio de sesión
+2026-02-22 22:42:11 - INFO - acceso_admin.py - Acceso autorizado al panel de administración

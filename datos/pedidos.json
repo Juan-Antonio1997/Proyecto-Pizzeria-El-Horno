@@ -104,5 +104,38 @@
         "subtotal": 8.2,
         "iva": 0.82,
         "total_final": 9.02
+    },
+    {
+        "fecha": "22/02/2026",
+        "hora": "22:34:52",
+        "pedido": [
+            {
+                "nombre": "hot-dog",
+                "precio": 7.0
+            },
+            {
+                "nombre": "pizza familiar",
+                "precio": 19.0
+            },
+            {
+                "nombre": "coca-cola",
+                "precio": 2.2
+            },
+            {
+                "nombre": "fanta",
+                "precio": 2.2
+            }
+        ],
+        "subtotal": 30.4,
+        "iva": 3.04,
+        "total_final": 33.44
+    },
+    {
+        "fecha": "22/02/2026",
+        "hora": "22:36:31",
+        "pedido": [],
+        "subtotal": 0,
+        "iva": 0.0,
+        "total_final": 0.0
     }
 ]

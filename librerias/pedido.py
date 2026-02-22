@@ -28,9 +28,6 @@ def imprimir_menu(menu):
     print("---------------------------")
     print(menu)
 
-def line_skip():
-    print("")
-
 def crear_pedido():
     return pd.DataFrame()
 
