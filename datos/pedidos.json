@@ -14,7 +14,7 @@
         ],
         "subtotal": 31.0,
         "iva": 3.1,
-        "total final": 34.1
+        "total_final": 34.1
     },
     {
         "fecha": "22/02/2026",
@@ -31,7 +31,7 @@
         ],
         "subtotal": 14.2,
         "iva": 1.42,
-        "total final": 15.62
+        "total_final": 15.62
     },
     {
         "fecha": "22/02/2026",
@@ -48,7 +48,7 @@
         ],
         "subtotal": 21.2,
         "iva": 2.12,
-        "total final": 23.32
+        "total_final": 23.32
     },
     {
         "fecha": "22/02/2026",
@@ -65,7 +65,7 @@
         ],
         "subtotal": 14.9,
         "iva": 1.49,
-        "total final": 16.39
+        "total_final": 16.39
     },
     {
         "fecha": "22/02/2026",
@@ -78,7 +78,7 @@
         ],
         "subtotal": 19.0,
         "iva": 1.9,
-        "total final": 20.9
+        "total_final": 20.9
     },
     {
         "fecha": "22/02/2026",
@@ -86,7 +86,7 @@
         "pedido": [],
         "subtotal": 0,
         "iva": 0.0,
-        "total final": 0.0
+        "total_final": 0.0
     },
     {
         "fecha": "22/02/2026",
@@ -103,6 +103,6 @@
         ],
         "subtotal": 8.2,
         "iva": 0.82,
-        "total final": 9.02
+        "total_final": 9.02
     }
 ]

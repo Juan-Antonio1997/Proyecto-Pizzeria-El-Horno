@@ -6,3 +6,16 @@
 2026-02-22 20:23:10 - INFO - pedido.py - Venta realizada con éxito. Total: 20.9€
 2026-02-22 20:42:30 - INFO - pedido.py - Venta realizada con éxito. Total: 0.0€
 2026-02-22 20:43:37 - INFO - pedido.py - Venta realizada con éxito. Total: 9.02€
+2026-02-22 21:50:31 - INFO - acceso_admin.py - Acceso autorizado al panel de administración
+2026-02-22 21:50:35 - INFO - acceso_admin.py - Acceso autorizado al panel de administración
+2026-02-22 21:51:06 - INFO - acceso_admin.py - Acceso autorizado al panel de administración
+2026-02-22 21:55:02 - INFO - acceso_admin.py - Acceso autorizado al panel de administración
+2026-02-22 21:56:19 - ERROR - acceso_admin.py - Se ha cerrado el programa tras 3 intentos fallidos de inicio de sesión
+2026-02-22 21:56:27 - INFO - acceso_admin.py - Acceso autorizado al panel de administración
+2026-02-22 22:02:45 - INFO - acceso_admin.py - Acceso autorizado al panel de administración
+2026-02-22 22:02:45 - ERROR - acceso_admin.py - No se ha encontrado el fichero datos/pedidos.json
+2026-02-22 22:08:34 - INFO - acceso_admin.py - Acceso autorizado al panel de administración
+2026-02-22 22:08:34 - ERROR - acceso_admin.py - El fichero "datos/pedidos.json" no existe o no fue encontrado
+2026-02-22 22:10:05 - ERROR - acceso_admin.py - El fichero "datos/configs.json" no existe o no fue encontrado
+2026-02-22 22:12:14 - ERROR - acceso_admin.py - Se ha cerrado el programa tras 3 intentos fallidos de inicio de sesión
+2026-02-22 22:12:19 - INFO - acceso_admin.py - Acceso autorizado al panel de administración

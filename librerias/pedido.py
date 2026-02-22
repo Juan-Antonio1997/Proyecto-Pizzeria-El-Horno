@@ -4,7 +4,7 @@ from datetime import datetime
 
 RUTA_CSV = "datos/productos.csv"
 SEPARADOR = ","
-RUTA_DATOS = "datos/pedido.json"
+RUTA_DATOS = "datos/pedidos.json"
 
 log.basicConfig(
     level=log.INFO,
@@ -68,7 +68,7 @@ def guardar_pedido(pedido):
         "pedido": pedido_dict,
         "subtotal": subtotal,
         "iva": iva,
-        "total final": total_final
+        "total_final": total_final
     }
     if os.path.exists(RUTA_DATOS):
         with open(RUTA_DATOS, "r", encoding="utf-8") as f:
